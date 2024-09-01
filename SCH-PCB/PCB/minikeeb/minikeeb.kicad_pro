@@ -171,7 +171,9 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.254,
+        0.4
       ],
       "via_dimensions": [
         {
@@ -404,7 +406,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "micro_redox_split.kicad_pro",
+    "filename": "minikeeb.kicad_pro",
     "version": 1
   },
   "net_settings": {
