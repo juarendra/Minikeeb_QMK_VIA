@@ -2087,6 +2087,151 @@
     (uuid ff483970-5d7a-438b-9b6e-f5236b84466e)
   )
 
+  (label "10" (at 46.355 137.795 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 01043517-ac1f-4d86-a369-17a73bc69430)
+  )
+  (label "10" (at 175.895 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 15dbd9ec-54ce-4f4e-9676-b5fa02e30384)
+  )
+  (label "16" (at 120.015 184.785 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1d8cad67-c9ea-4fde-8137-1604ddb7dad4)
+  )
+  (label "5" (at 271.145 34.29 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1dbbf9c6-ea47-4768-9ab5-4ff0a7fc58c4)
+  )
+  (label "7" (at 231.14 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2928afb8-c4f9-4e17-aa4b-6f44ecc4b142)
+  )
+  (label "17" (at 230.505 102.87 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2b90fc66-4017-4c2e-b224-14c8058f3d86)
+  )
+  (label "18" (at 212.725 102.87 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2c6fb131-514f-4fd9-9b76-c524fab41b65)
+  )
+  (label "6" (at 249.555 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 30e5162c-4272-4dfb-b977-52f980bf70e3)
+  )
+  (label "18" (at 82.55 184.785 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3497fe1b-b6d3-4e06-8292-1c24805b6b25)
+  )
+  (label "14" (at 249.555 78.74 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4116b547-b532-46f8-b4c5-0c885cb23156)
+  )
+  (label "1" (at 64.77 114.3 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4adfc04c-d321-483a-b011-15a9b77881db)
+  )
+  (label "12" (at 83.185 160.655 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4c5a2c90-ff78-415b-bad2-252cea1d0d45)
+  )
+  (label "2" (at 212.09 32.385 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 508f74b8-4cad-4b1a-92cd-e5f246b25548)
+  )
+  (label "3" (at 230.505 32.385 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 585ad87e-fcac-4e06-80ee-89856e9cbe80)
+  )
+  (label "15" (at 271.78 80.645 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 649b3602-7539-4c58-aa60-6078ba10880a)
+  )
+  (label "8" (at 213.36 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 66478cfd-7df8-4e7f-bc77-eea2f055d680)
+  )
+  (label "13" (at 101.6 160.655 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6feb22d1-663d-4cb5-8690-45862d17d4a7)
+  )
+  (label "17" (at 101.6 184.785 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 748e6e16-5820-4c77-ab6a-a71cbe11807f)
+  )
+  (label "2" (at 82.55 114.3 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 775f44e7-684e-49d6-93de-30c7b6b55017)
+  )
+  (label "1" (at 194.31 32.385 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 84f862f2-f040-421d-94de-3fdc91b082b6)
+  )
+  (label "11" (at 65.405 160.655 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8f14b768-98a1-4859-9d1c-f2cab52ddb27)
+  )
+  (label "14" (at 119.38 160.655 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 90c3d39b-9379-43b7-82a6-3daa01877745)
+  )
+  (label "9" (at 64.77 137.795 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 99ab2071-e328-41e2-883c-4033df87466f)
+  )
+  (label "9" (at 194.945 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a27a08be-6663-4ce1-94cc-27157cdb51df)
+  )
+  (label "5" (at 141.605 115.57 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid aa93406e-57a2-4cef-ad1b-0c2f7343c48c)
+  )
+  (label "11" (at 194.945 78.74 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid aac53731-e142-4239-90d4-fcf9d9912a11)
+  )
+  (label "4" (at 119.38 114.3 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ac0148e2-5950-4737-b71d-93d8a1cd0c60)
+  )
+  (label "16" (at 250.19 102.87 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b33856d9-d653-476e-8e22-41209e538807)
+  )
+  (label "3" (at 100.33 114.3 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bb7943a6-0514-489c-8f40-961a1abcf570)
+  )
+  (label "15" (at 142.24 161.925 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bc804ce8-f660-4301-9cdd-787bacd5519c)
+  )
+  (label "4" (at 248.92 32.385 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c9ebb0fe-a156-48df-8d03-7c1f028cef1c)
+  )
+  (label "13" (at 230.505 78.74 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d5290852-0102-4238-87bf-c6d4cb7eb1f9)
+  )
+  (label "12" (at 212.725 78.74 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d95a4777-dd0e-457e-95ff-be29211fc79d)
+  )
+  (label "7" (at 102.235 137.795 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid dd3596a0-ceb5-45b8-ae1d-de3ba4eca3ba)
+  )
+  (label "8" (at 84.455 137.795 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e2de3703-dda1-40c0-af5e-6953b0123f6d)
+  )
+  (label "6" (at 120.015 137.795 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid eec4d63a-12ef-41fa-b838-8450540140ee)
+  )
+
   (global_label "col4" (shape input) (at 149.86 26.035 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 035855ce-ea19-4a16-b299-ce74409f2790)
@@ -2325,7 +2470,7 @@
     (pin "3" (uuid 612cd846-d84f-4565-a38a-971e8a7fa34b))
     (pin "4" (uuid e0d84a5d-a39d-4db3-bb67-dee52fd3e8d4))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "U2") (unit 1)
         )
@@ -2350,7 +2495,7 @@
     )
     (pin "1" (uuid ff77b600-e90e-4a13-bca1-30342f4d16dd))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR020") (unit 1)
         )
@@ -2375,7 +2520,7 @@
     )
     (pin "1" (uuid 673d1238-be53-4bdc-9f9c-44025fffe514))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR019") (unit 1)
         )
@@ -2403,7 +2548,7 @@
     (pin "3" (uuid 8cb84a96-6176-4bca-b692-f09ccbc1574c))
     (pin "4" (uuid 10df8637-c7f6-4672-a9ee-700749fe1d3a))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED37") (unit 1)
         )
@@ -2431,7 +2576,7 @@
     (pin "3" (uuid 7bd0070d-2f90-4690-b339-be2eab577c05))
     (pin "4" (uuid fd7a176c-5d3c-461a-aa8c-5b2853e180f9))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED34") (unit 1)
         )
@@ -2459,7 +2604,7 @@
     (pin "3" (uuid 710b007a-6f38-4981-8473-1b0c1a292747))
     (pin "4" (uuid b018efde-0682-4af2-a39a-6065f4504c74))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED17") (unit 1)
         )
@@ -2488,7 +2633,7 @@
     (pin "S1" (uuid 715c25de-148f-497b-982c-20aec3046ec6))
     (pin "S2" (uuid 297ab523-cd63-4fa8-959b-3141373d281a))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW20") (unit 1)
         )
@@ -2514,7 +2659,7 @@
     (pin "1" (uuid 8d88590f-8b5a-4dbc-9d87-c12702865090))
     (pin "2" (uuid 13009c5b-91af-4197-825c-0405e602631c))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP7") (unit 1)
         )
@@ -2545,7 +2690,7 @@
     (pin "1" (uuid f7d7db5c-e932-4f01-a51c-81e4e5a54ab1))
     (pin "2" (uuid 2d530405-39c3-42b1-9d80-6eb0132d41cf))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW4") (unit 1)
         )
@@ -2573,7 +2718,7 @@
     (pin "3" (uuid aac3f327-58f2-4ba1-bdf8-35d9c83fbc66))
     (pin "4" (uuid c53ac6c8-0954-4f6a-ac92-10d48c25846c))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED33") (unit 1)
         )
@@ -2598,7 +2743,7 @@
     )
     (pin "1" (uuid c16cf253-a6ab-4bda-8c21-27de43f969a2))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR010") (unit 1)
         )
@@ -2631,7 +2776,7 @@
     (pin "3" (uuid f111bfa5-ba6a-48de-aa1c-523a812198e6))
     (pin "4" (uuid eebafc70-5301-4e8b-a3e7-9b4fec7bebcb))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED2") (unit 1)
         )
@@ -2659,7 +2804,7 @@
     (pin "3" (uuid 6fc3c479-7503-465a-96dd-d1cc65fd5ad1))
     (pin "4" (uuid b0eb1dcf-72e6-4bd3-8ed0-5f4d2fc12214))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED8") (unit 1)
         )
@@ -2685,7 +2830,7 @@
     (pin "1" (uuid 0598a599-055d-42aa-9c10-fa7ea0e0a2fd))
     (pin "2" (uuid 599b134c-9c60-4bd5-90eb-78c9490ba623))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW12") (unit 1)
         )
@@ -2711,7 +2856,7 @@
     (pin "1" (uuid 8178255f-f8fa-45e5-a65b-d844bbd432e5))
     (pin "2" (uuid 326447eb-60d3-4e5f-aaa6-2e5592b3a9c9))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW15") (unit 1)
         )
@@ -2739,7 +2884,7 @@
     (pin "3" (uuid 1d090582-7e2e-4da2-a970-e9c9a7e6005f))
     (pin "4" (uuid 8ba13843-4cfd-4e63-840d-c968c2b3188d))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED25") (unit 1)
         )
@@ -2765,7 +2910,7 @@
     (pin "1" (uuid 3ae178b6-cf19-460b-be1f-a72fd7937c57))
     (pin "2" (uuid 3946cd9d-c97d-4651-b430-29353a03a7a5))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D15") (unit 1)
         )
@@ -2791,7 +2936,7 @@
     (pin "1" (uuid 8dac014d-102c-4726-85a4-afdb6bd14761))
     (pin "2" (uuid 37498fb3-ba16-4841-90e8-2b5f8949e0aa))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D9") (unit 1)
         )
@@ -2819,7 +2964,7 @@
     (pin "3" (uuid e59f65f6-0f77-4510-a3a1-b1a110cbd565))
     (pin "4" (uuid a7bcdb01-8a48-4570-a99b-f3230bd0f263))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED6") (unit 1)
         )
@@ -2847,7 +2992,7 @@
     (pin "3" (uuid c5f2db88-7e9e-4ca8-9178-33f7e9405096))
     (pin "4" (uuid 3838cc39-0365-489d-b19a-902d909eb3bc))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED24") (unit 1)
         )
@@ -2875,7 +3020,7 @@
     (pin "3" (uuid 6a57725d-135c-46e9-a568-b0b3e8f1f4e8))
     (pin "4" (uuid 09664638-53eb-424f-8f3b-8e393fc258fb))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED20") (unit 1)
         )
@@ -2903,7 +3048,7 @@
     (pin "3" (uuid 54bc5bcf-afce-4731-9c08-f4fdc7850753))
     (pin "4" (uuid 6fd59583-9c6e-45ab-b48a-6d7c58ee1881))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED13") (unit 1)
         )
@@ -2929,7 +3074,7 @@
     (pin "1" (uuid cc04bd82-47c6-42df-9c3a-f38164f7191e))
     (pin "2" (uuid 5e9f9e92-e9fc-4ce2-bf05-54465bc608ed))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D8") (unit 1)
         )
@@ -2957,7 +3102,7 @@
     (pin "3" (uuid d41949ca-37b1-4f33-807a-b7f3ea62eaea))
     (pin "4" (uuid f9ea5fc9-3abd-4aa7-865c-07ded4be0d71))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED32") (unit 1)
         )
@@ -2983,7 +3128,7 @@
     (pin "1" (uuid 3fd67eb9-61d5-4e44-be0e-46616eb00dbb))
     (pin "2" (uuid d6572de6-6909-4f67-b481-5bc882d9ef73))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D10") (unit 1)
         )
@@ -3009,7 +3154,7 @@
     (pin "1" (uuid 7b84f7a8-f05a-4a69-a33e-86d1b366cb6b))
     (pin "2" (uuid 38412a9f-8c6d-4d58-b44b-232039dfc3d1))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D16") (unit 1)
         )
@@ -3035,7 +3180,7 @@
     (pin "1" (uuid 5e7feaef-e48f-4710-9015-afd69a4da6b5))
     (pin "2" (uuid 85a5ea32-502a-4241-9f71-b5433ca17c2f))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW11") (unit 1)
         )
@@ -3061,7 +3206,7 @@
     (pin "1" (uuid 3137daf6-c8c0-4872-80c2-39b69dfe2346))
     (pin "2" (uuid b59479a7-2242-4fc1-bac0-50422003fb3d))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW5") (unit 1)
         )
@@ -3087,7 +3232,7 @@
     (pin "1" (uuid 5968ee8b-63bd-4db8-9fee-ccca24927078))
     (pin "2" (uuid 7f4522d8-27c3-4c71-9e38-82e7e0c2006d))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW16") (unit 1)
         )
@@ -3113,7 +3258,7 @@
     (pin "1" (uuid fdd20508-b046-4927-bdf6-15f63d535b7b))
     (pin "2" (uuid 13762b0e-ffb3-4524-a7ae-fb71be9ebc55))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP4") (unit 1)
         )
@@ -3143,7 +3288,7 @@
     )
     (pin "1" (uuid d85ae7af-3bbd-4e08-adc1-7bf3df6fc1dd))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR03") (unit 1)
         )
@@ -3174,7 +3319,7 @@
     (pin "1" (uuid 96ec1128-2bda-4ee8-b168-8efa3993bd3a))
     (pin "2" (uuid 2fdf2950-f8a2-4ec5-897f-316c2981d74a))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D7") (unit 1)
         )
@@ -3202,7 +3347,7 @@
     (pin "3" (uuid 4e8617f7-fd0f-4a1e-af9a-09c5a095bb8f))
     (pin "4" (uuid c962cf7d-4632-4199-bc77-fe3b124ab468))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED11") (unit 1)
         )
@@ -3227,7 +3372,7 @@
     )
     (pin "1" (uuid 48081a03-aaa9-4cc0-92f0-44862f6c84c3))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR011") (unit 1)
         )
@@ -3257,7 +3402,7 @@
     )
     (pin "1" (uuid b28df480-c069-4bdd-952c-b9b50861c01d))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR06") (unit 1)
         )
@@ -3290,7 +3435,7 @@
     (pin "3" (uuid 9301cb2c-15f4-4758-b3ce-8e4328ba3281))
     (pin "4" (uuid 253866c9-fbfa-4a0c-938f-b086faa853b0))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED18") (unit 1)
         )
@@ -3318,7 +3463,7 @@
     (pin "3" (uuid 754d4f52-a69e-4e79-9f11-99cb785c7d9f))
     (pin "4" (uuid 7b1c7d37-fd2c-476c-a7c5-40906541a350))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED26") (unit 1)
         )
@@ -3344,7 +3489,7 @@
     (pin "1" (uuid 23847f53-2597-4abd-8c62-7a8f4bb37c3b))
     (pin "2" (uuid 2345c27a-d506-472a-9451-4e15a3983b9a))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW6") (unit 1)
         )
@@ -3372,7 +3517,7 @@
     (pin "3" (uuid a425701e-7110-40be-8fb8-4671faca8827))
     (pin "4" (uuid 3646593f-e223-435f-9861-db871e16c20a))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED23") (unit 1)
         )
@@ -3400,7 +3545,7 @@
     (pin "3" (uuid 6a07fae2-5d3f-4bee-8061-71f00bcc2447))
     (pin "4" (uuid 30665670-2d08-4790-95d7-02cd3ffe06b3))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED19") (unit 1)
         )
@@ -3428,7 +3573,7 @@
     (pin "3" (uuid e5f84296-ccb7-46de-b1ee-f0233cf021fd))
     (pin "4" (uuid b2e50aab-bec3-4df0-9544-0ae0d5d798f5))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED14") (unit 1)
         )
@@ -3456,7 +3601,7 @@
     (pin "3" (uuid 336327b4-67c5-4367-b4ef-bb4ef866422e))
     (pin "4" (uuid 4ffe2be1-b65c-4623-8da3-8626af3ac5c4))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED12") (unit 1)
         )
@@ -3484,7 +3629,7 @@
     (pin "3" (uuid f9aa005f-9211-41fb-9463-162671778c2a))
     (pin "4" (uuid 7c9e23e0-ff28-4f90-9e78-a21768483b03))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED38") (unit 1)
         )
@@ -3510,7 +3655,7 @@
     (pin "1" (uuid 8ccd39a3-d058-49f3-b4cf-d529310fbda3))
     (pin "2" (uuid d448f7c7-73ed-479e-9624-0366c1015851))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW2") (unit 1)
         )
@@ -3536,7 +3681,7 @@
     (pin "1" (uuid 83405df6-f9c6-41d0-8ed0-6769e5cc7e3e))
     (pin "2" (uuid 0048bf55-6f02-40bd-93bd-35bf76d61383))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW13") (unit 1)
         )
@@ -3561,7 +3706,7 @@
     )
     (pin "1" (uuid 29d6d5ae-6b66-4f78-9122-4dec40c74e2f))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR04") (unit 1)
         )
@@ -3592,7 +3737,7 @@
     (pin "1" (uuid 035d0023-65a9-4703-90c0-3da6f80a6465))
     (pin "2" (uuid 71efb68f-365c-4d65-b699-64a454daaf16))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D3") (unit 1)
         )
@@ -3618,7 +3763,7 @@
     (pin "1" (uuid 8c8bda7a-1be3-4a8d-952a-49f200d4779f))
     (pin "2" (uuid 00a5e62c-d89b-405c-a3a8-ca79d35cf550))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D17") (unit 1)
         )
@@ -3644,7 +3789,7 @@
     (pin "1" (uuid d0b83f09-ac90-46dd-ab4b-cdbe7f1c8d63))
     (pin "2" (uuid 064d6d12-5e41-4cf9-a28c-41d01a0b9868))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW3") (unit 1)
         )
@@ -3672,7 +3817,7 @@
     (pin "3" (uuid 8a1f2a9a-a498-449b-89f7-98677822115b))
     (pin "4" (uuid 5d02f56c-347e-4cc4-8244-6c3c31ef1b97))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED4") (unit 1)
         )
@@ -3698,7 +3843,7 @@
     (pin "1" (uuid 00845836-b5d5-4201-a443-bfd8e6688f6b))
     (pin "2" (uuid 3c24d980-b7d9-459c-a434-dde054ab03d9))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D6") (unit 1)
         )
@@ -3724,7 +3869,7 @@
     (pin "1" (uuid 72a59b87-4382-4e60-8acd-6b19f14943b1))
     (pin "2" (uuid 6d2a044b-f6cf-43ab-a1c9-9beb921029fd))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D14") (unit 1)
         )
@@ -3752,7 +3897,7 @@
     (pin "3" (uuid 01aa67af-9945-40fe-b9c4-fb58345bf29c))
     (pin "4" (uuid ff61a3a0-5286-49dd-8861-a4cd3114545b))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED3") (unit 1)
         )
@@ -3778,7 +3923,7 @@
     (pin "1" (uuid f9680620-9238-41f3-b664-c9a60628d02a))
     (pin "2" (uuid 00c141f7-c000-4e5d-8c09-6784388016f3))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D2") (unit 1)
         )
@@ -3825,7 +3970,7 @@
     (pin "8" (uuid 44dcd52b-111d-410e-b337-72d6cf504cfb))
     (pin "9" (uuid 9b534bc5-0460-4437-ba13-69dd47c5bb07))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "U3") (unit 1)
         )
@@ -3851,7 +3996,7 @@
     (pin "1" (uuid 2da9fbbe-a1c8-4635-92fa-5cdbae30c6a1))
     (pin "2" (uuid 63122ce5-1632-43c9-9b2f-3ea0c3660880))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP8") (unit 1)
         )
@@ -3881,7 +4026,7 @@
     )
     (pin "1" (uuid 1b5c6162-f075-45e0-ba67-9785c6d07fc1))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR01") (unit 1)
         )
@@ -3906,7 +4051,7 @@
     )
     (pin "1" (uuid b7460f58-8432-41d8-99c9-e4e5499978fc))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR02") (unit 1)
         )
@@ -3939,7 +4084,7 @@
     (pin "3" (uuid dd1a3a23-a973-4aa0-90bb-f767c852ebb3))
     (pin "4" (uuid d63fb6d8-e325-4590-a26e-930e5cd48e8c))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED28") (unit 1)
         )
@@ -3967,7 +4112,7 @@
     (pin "3" (uuid d915244f-29a6-46f2-ab56-1a65961cdb2b))
     (pin "4" (uuid 0fe5dcac-fc1c-47de-bf88-33029c1fc0c0))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED10") (unit 1)
         )
@@ -3995,7 +4140,7 @@
     (pin "3" (uuid bbfd8e6b-37ba-4024-9661-1643faa77604))
     (pin "4" (uuid d00dca25-394c-4bc2-bbfd-bcdbd07a0c31))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED31") (unit 1)
         )
@@ -4020,7 +4165,7 @@
     )
     (pin "1" (uuid 609d1a72-d2ad-4e09-a759-bce11150925a))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR09") (unit 1)
         )
@@ -4053,7 +4198,7 @@
     (pin "3" (uuid fd68ab43-c541-4395-8822-4651d176c396))
     (pin "4" (uuid 834172af-c155-4d5a-94b2-379fdbe037a1))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED9") (unit 1)
         )
@@ -4079,7 +4224,7 @@
     (pin "1" (uuid 902bb335-bea8-4424-8e99-8e490a2ddae5))
     (pin "2" (uuid c0ee8376-8460-4f6c-879c-aafcc51832f7))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW19") (unit 1)
         )
@@ -4105,7 +4250,7 @@
     (pin "1" (uuid e6ebee16-4522-45a2-94d5-4980f08c4562))
     (pin "2" (uuid 5cefc8be-aceb-41e2-9e31-8a0f9e8bc2e2))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW18") (unit 1)
         )
@@ -4131,7 +4276,7 @@
     (pin "1" (uuid 2bd8f2c5-42c5-476c-a912-aea02f073cde))
     (pin "2" (uuid 1ffde55a-52cc-4be3-ad3a-804c4f6a4f2f))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP3") (unit 1)
         )
@@ -4164,7 +4309,7 @@
     (pin "3" (uuid a7f98ee8-b58a-40e7-97e8-06cffcbf440a))
     (pin "4" (uuid aa661d41-91f3-4867-85c5-e16a6bf4efd1))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED30") (unit 1)
         )
@@ -4190,7 +4335,7 @@
     (pin "1" (uuid 12f7034e-43cb-42fd-919c-fade0c95db02))
     (pin "2" (uuid f19e66c7-7bbf-4d0b-addb-00c425329e4a))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D12") (unit 1)
         )
@@ -4216,7 +4361,7 @@
     (pin "1" (uuid aab82b27-18db-4fa3-8b45-92af931ff21c))
     (pin "2" (uuid 374ab9f7-04ae-437d-a25a-d36d0ea254f2))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D13") (unit 1)
         )
@@ -4244,7 +4389,7 @@
     (pin "3" (uuid a38948a7-e3c0-4f0e-b48b-5e5d08711586))
     (pin "4" (uuid 5de25b5c-b89c-4434-832e-2870bc582542))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED1") (unit 1)
         )
@@ -4269,7 +4414,7 @@
     )
     (pin "1" (uuid ac72684f-e08f-4acf-b229-295aa40f2dbf))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR08") (unit 1)
         )
@@ -4300,7 +4445,7 @@
     (pin "1" (uuid 054573f3-3d08-46d7-ab66-8cad03886fdb))
     (pin "2" (uuid 0e7fc7db-b054-4ef5-b375-425d9ca52843))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW10") (unit 1)
         )
@@ -4325,7 +4470,7 @@
     )
     (pin "1" (uuid 14b3c6b5-8825-40be-9e9d-ec425a2d0d0f))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR05") (unit 1)
         )
@@ -4355,7 +4500,7 @@
     )
     (pin "1" (uuid 4d22f82b-0292-44a5-b0af-f5b500605d39))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "#PWR07") (unit 1)
         )
@@ -4388,7 +4533,7 @@
     (pin "3" (uuid 0fc05f54-a96f-4f10-9dde-4bc2a68ebc1e))
     (pin "4" (uuid 1dde85bd-9d5b-4db8-9be7-3fe372da989d))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED16") (unit 1)
         )
@@ -4416,7 +4561,7 @@
     (pin "3" (uuid 399a59cf-4e09-4026-9e2b-5f6364748c98))
     (pin "4" (uuid 29b22396-8cfd-4eeb-8cad-607dbc1cc72f))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED36") (unit 1)
         )
@@ -4442,7 +4587,7 @@
     (pin "1" (uuid a67de8a8-097f-41e7-ab32-8ea548c0dcdc))
     (pin "2" (uuid 61c48df7-1b57-45e8-8381-7bc7b16feb0b))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP1") (unit 1)
         )
@@ -4473,7 +4618,7 @@
     (pin "1" (uuid 91549f31-5761-46c6-a90c-0e9254e8b296))
     (pin "2" (uuid ea4e9e17-4ac0-44c6-9acb-58737f3cc243))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D11") (unit 1)
         )
@@ -4499,7 +4644,7 @@
     (pin "1" (uuid d55778be-bc6d-4771-9326-7c54b02370b1))
     (pin "2" (uuid 4f44423f-70fa-43cd-8fb7-abcfbfed1ecf))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D5") (unit 1)
         )
@@ -4525,7 +4670,7 @@
     (pin "1" (uuid faff86e6-c42c-47dc-96db-27a5bc8fe979))
     (pin "2" (uuid f356f732-5ecc-426f-a604-64dbe98f2e44))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D4") (unit 1)
         )
@@ -4553,7 +4698,7 @@
     (pin "3" (uuid c9642c87-58c9-462b-a04d-0fbc3801c787))
     (pin "4" (uuid bea3f116-d4dd-4b37-a3cf-698ee57b8125))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED21") (unit 1)
         )
@@ -4579,7 +4724,7 @@
     (pin "1" (uuid cee5a5cb-bb87-4f93-afe2-2bdbb3b54b79))
     (pin "2" (uuid d46a9fa6-94a0-4cf5-9826-2ec3754dbaa7))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW8") (unit 1)
         )
@@ -4605,7 +4750,7 @@
     (pin "1" (uuid e88371aa-5f61-4afa-a906-e7360361aff4))
     (pin "2" (uuid 4df7e7cc-310b-4a1b-a72b-3e67b57544de))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW17") (unit 1)
         )
@@ -4631,7 +4776,7 @@
     (pin "1" (uuid 68f11f43-3174-4362-86da-3b63e3fe8ea7))
     (pin "2" (uuid 51d03e9a-57b1-4fda-a578-6fc727c7720c))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP6") (unit 1)
         )
@@ -4664,7 +4809,7 @@
     (pin "3" (uuid 4b5770ec-2116-4b38-8e1b-5d0b6235f9dd))
     (pin "4" (uuid a46cc0d1-4e0c-4558-9642-fbcad761edf4))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED7") (unit 1)
         )
@@ -4690,7 +4835,7 @@
     (pin "1" (uuid 9f14d3ae-1410-4656-a6d7-d5e932fc76e5))
     (pin "2" (uuid 8d899559-fe5e-4b89-bf8c-ce90777c29f9))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW14") (unit 1)
         )
@@ -4716,7 +4861,7 @@
     (pin "1" (uuid cc8771a4-0d2c-456e-8495-abadd0f45e5b))
     (pin "2" (uuid 15876e87-7de9-4d50-b0b3-5094422a59de))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW7") (unit 1)
         )
@@ -4742,7 +4887,7 @@
     (pin "1" (uuid 86bffad0-85be-4757-a3a4-7dfef68b1a7f))
     (pin "2" (uuid 1d3d5839-9f02-43e7-abb6-9346c9c63331))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP5") (unit 1)
         )
@@ -4775,7 +4920,7 @@
     (pin "3" (uuid dc90bd93-d75a-4f47-9c69-cfb37b682c0f))
     (pin "4" (uuid 54851368-c0b8-4d73-8302-78e04607ad45))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "J1") (unit 1)
         )
@@ -4806,7 +4951,7 @@
     (pin "1" (uuid b0587b8a-9fea-47b4-8e5f-07dcb0a8715f))
     (pin "2" (uuid c1a0e8bc-b6be-4c5e-9485-df53c253bda4))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "JP2") (unit 1)
         )
@@ -4837,7 +4982,7 @@
     (pin "1" (uuid 80d68cc4-653e-48b1-8b04-adf81204ab0d))
     (pin "2" (uuid d70df5e4-4a92-4dfe-af59-fc2849a7d7a7))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D1") (unit 1)
         )
@@ -4865,7 +5010,7 @@
     (pin "3" (uuid c829d746-1a42-4e56-8350-ed06374d83f4))
     (pin "4" (uuid 51a057c5-9404-42ae-b552-2dce45413c07))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED15") (unit 1)
         )
@@ -4893,7 +5038,7 @@
     (pin "3" (uuid 923ccdfd-07db-4303-afbc-295e11f45530))
     (pin "4" (uuid 52e933af-0723-4b1e-a56d-933bc2abf505))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED22") (unit 1)
         )
@@ -4921,7 +5066,7 @@
     (pin "3" (uuid e43956d0-f92b-462c-bc9b-572b3519d9b6))
     (pin "4" (uuid b9c53ea4-ea3c-4b0b-9a3a-d912422e14bc))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED29") (unit 1)
         )
@@ -4949,7 +5094,7 @@
     (pin "3" (uuid 90d61a49-9fba-4593-b881-f844a40d270b))
     (pin "4" (uuid 26624452-197f-45ac-92c2-a25436ecc31f))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED5") (unit 1)
         )
@@ -4975,7 +5120,7 @@
     (pin "1" (uuid 3c198976-7a10-4935-9286-b745b1401faa))
     (pin "2" (uuid 1e284b91-7d5f-4b19-afa2-8a1f8a6957a1))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "SW9") (unit 1)
         )
@@ -5003,7 +5148,7 @@
     (pin "3" (uuid a6d65565-d3d2-4264-88f2-894b048836d0))
     (pin "4" (uuid 029828f3-6ad0-4a46-876c-94f60aad6cd6))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED27") (unit 1)
         )
@@ -5029,7 +5174,7 @@
     (pin "1" (uuid 56cda85e-2224-4fdc-8b57-0fc6e7a6fcc7))
     (pin "2" (uuid 4ed20da8-fa12-4597-875f-d9759099b2bb))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "D18") (unit 1)
         )
@@ -5057,7 +5202,7 @@
     (pin "3" (uuid 9db57f6c-0a1c-4cc6-b900-e5dcb5576c70))
     (pin "4" (uuid 7c25ebb1-39c8-42af-9eb6-23f6a3ed4998))
     (instances
-      (project "micro_redox_split"
+      (project "minikeeb"
         (path "/2d29fb35-10cd-40a1-be26-d1c36146b851"
           (reference "LED35") (unit 1)
         )
