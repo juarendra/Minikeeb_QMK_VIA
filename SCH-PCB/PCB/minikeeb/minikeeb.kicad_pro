@@ -539,7 +539,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../HARDWARE/pcb_minikeeb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
