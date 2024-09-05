@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "keeb_mcu")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb-master/mcu.kicad_sym")(options "")(descr ""))
   (lib (name "gundam")(type "KiCad")(uri "${KIPRJMOD}/gundam.kicad_sym")(options "")(descr ""))
+  (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/lib/other/JS102011SAQN.kicad_sym")(options "")(descr ""))
 )

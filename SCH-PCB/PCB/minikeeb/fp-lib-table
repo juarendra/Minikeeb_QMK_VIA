@@ -4,4 +4,5 @@
   (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/lib/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "keeb_mcu")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb-master/mcu.pretty")(options "")(descr ""))
   (lib (name "gundam")(type "KiCad")(uri "C:/Users/jrjua/Documents/Pribadi/Github/Minikeeb_RP2040/SCH-PCB/PCB/minikeeb")(options "")(descr ""))
+  (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/lib/other")(options "")(descr ""))
 )
