@@ -107,7 +107,7 @@ https://github.com/juarendra/Zeapad-Pro-QMK-VIA/assets/43043633/afd7e68e-0a54-4b
 [Dimension File](https://github.com/juarendra/Minikeeb_QMK_VIA/blob/main/HARDWARE/dimension%20minikeeb.pdf)
 ### BOM
 ### Schematic
-[Schematic File]((https://github.com/juarendra/Minikeeb_QMK_VIA/blob/main/HARDWARE/schematic%20minikeeb.pdf)
+[Schematic File](https://github.com/juarendra/Minikeeb_QMK_VIA/blob/main/HARDWARE/schematic%20minikeeb.pdf)
 ### Example Program
 [Example Firmware]()
 ## FAQ
